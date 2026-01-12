@@ -35,8 +35,8 @@ This helps users understand their surrounding environment and navigate safely wi
 |----------|------------|
 | `Object Detection(webcam).py` | Runs YOLO object detection using a USB/Webcam |
 | `Object Detection(picam).py` | Runs YOLO object detection using Raspberry Pi Camera |
-| `Charactar Detection(webcam).py` | OCR (PyTesseract) text detection using Webcam |
-| `Charactar Detection(picam).py` | OCR (PyTesseract) text detection using Pi Camera |
+| `Charactar Recoginition(webcam).py` | OCR (PyTesseract) text detection using Webcam |
+| `Charactar Recoginition(picam).py` | OCR (PyTesseract) text detection using Pi Camera |
 | `Ultrasonic.py` | Code for reading distance values using HC-SR04 ultrasonic sensor |
 | `README.md` | Documentation file (you are reading it now 🙂) |
 
